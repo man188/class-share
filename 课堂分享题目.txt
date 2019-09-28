@@ -20,7 +20,7 @@ mvc和mvvm及mvp具体含义，及其区别   冯敏
 
 骨架屏介绍分享及演示
 
-typescript介绍讲解
+typescript介绍讲解   文书丽
 
 sui/mui/weui/amazeui/bootstrap移动端框架介绍讲解
 
