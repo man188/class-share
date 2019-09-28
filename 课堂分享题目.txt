@@ -26,6 +26,6 @@ sui/mui/weui/amazeui/bootstrap移动端框架介绍讲解
 
 浅拷贝、深拷贝之间的区别 闫东峰 
 
-web storage和cookie的区别
+web storage和cookie的区别 黄秀秀
 
 优雅降级和渐进增强
