@@ -4,7 +4,7 @@ js原型和原型链
 
 闭包及其作用
 
-window和document对象介绍讲解
+window和document对象介绍讲解  付波
 
 js继承方式及其优缺点
 
