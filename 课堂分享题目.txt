@@ -1,4 +1,4 @@
-﻿JavaScript 数组和对象原生方法
+﻿JavaScript 数组和对象原生方法 张栋
 
 js原型和原型链
 
@@ -6,7 +6,7 @@ js原型和原型链
 
 window和document对象介绍讲解
 
-js继承方式及其优缺点
+js继承方式及其优缺点 郝夏赟
 
 Http 和 Https 的区别 丁慧涛
 
@@ -26,6 +26,6 @@ sui/mui/weui/amazeui/bootstrap移动端框架介绍讲解
 
 浅拷贝、深拷贝之间的区别 闫东峰 
 
-web storage和cookie的区别李德生
+web storage和cookie的区别
 
 优雅降级和渐进增强
