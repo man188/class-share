@@ -8,7 +8,7 @@ window和document对象介绍讲解
 
 js继承方式及其优缺点 郝夏赟
 
-Http 和 Https 的区别 丁慧涛
+Http 和 Https 的区别 耿鹏程
 
 TCP 协议如何来保证传输的可靠性  毛杰
 
@@ -18,7 +18,7 @@ HTTP 的几种请求方法用途  姜娜娜
 
 mvc和mvvm及mvp具体含义，及其区别   冯敏
 
-骨架屏介绍分享及演示
+骨架屏介绍分享及演示 丁慧涛
 
 typescript介绍讲解   文书丽
 
