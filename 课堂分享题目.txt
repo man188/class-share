@@ -1,22 +1,22 @@
-﻿JavaScript 数组和对象原生方法 张栋
+﻿JavaScript 数组和对象原生方法
 
 js原型和原型链
 
 闭包及其作用
 
-window和document对象介绍讲解  文书丽
+window和document对象介绍讲解
 
 js继承方式及其优缺点
 
 Http 和 Https 的区别 丁慧涛
 
-TCP 协议如何来保证传输的可靠性  毛杰
+TCP 协议如何来保证传输的可靠性
 
-HTTP 的几种请求方法用途  姜娜娜
+HTTP 的几种请求方法用途  马圆圆
 
 函数防抖和函数节流
 
-mvc和mvvm及mvp具体含义，及其区别   冯敏
+mvc和mvvm及mvp具体含义，及其区别
 
 骨架屏介绍分享及演示
 
@@ -28,4 +28,4 @@ sui/mui/weui/amazeui/bootstrap移动端框架介绍讲解
 
 web storage和cookie的区别
 
-优雅降级和渐进增强
+优雅降级和渐进增强  马圆圆
