@@ -8,7 +8,7 @@ window和document对象介绍讲解
 
 js继承方式及其优缺点
 
-Http 和 Https 的区别
+Http 和 Https 的区别  耿鹏程  
 
 TCP 协议如何来保证传输的可靠性
 
