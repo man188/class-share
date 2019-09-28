@@ -22,7 +22,7 @@ mvc和mvvm及mvp具体含义，及其区别   冯敏
 
 typescript介绍讲解   文书丽
 
-sui/mui/weui/amazeui/bootstrap移动端框架介绍讲解
+sui/mui/weui/amazeui/bootstrap移动端框架介绍讲解  吴威威
 
 浅拷贝、深拷贝之间的区别 闫东峰 
 
