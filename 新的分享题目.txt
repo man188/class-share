@@ -1,6 +1,6 @@
 AMD和CMD的区别
 
-ajax和axios、fetch的区别?
+ajax和axios、fetch的区别?姜娜娜
 
 移动端前端适配方案？
 
