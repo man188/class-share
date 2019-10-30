@@ -1,6 +1,6 @@
 AMD和CMD的区别
 
-ajax和axios、fetch的区别?姜娜娜
+ajax和axios、fetch的区别?
 
 移动端前端适配方案？
 
@@ -10,7 +10,7 @@ Zepto的点透问题如何解决
 
 vue angular react的区别 文书丽
 
-es6语法介绍 郝夏赟
+es6语法介绍
 
 谈谈垃圾回收机制方式及内存管理
 
@@ -28,7 +28,7 @@ Electron开发桌面应用
 
 深入理解 token
 
-移动端1像素边框问题  冯敏
+移动端1像素边框问题
 
 理解npm、yarn依赖包管理的原理，两者的区别
 
@@ -40,7 +40,7 @@ react-native介绍
 
 css阻塞 js阻塞        耿鹏程
 
-移动端点击穿透的问题
+移动端点击穿透的问题 马圆圆
 
 markdown文档使用  张栋
 
