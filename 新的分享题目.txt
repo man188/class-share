@@ -36,7 +36,7 @@ Flutter  Serverless 介绍
 
 react-native介绍
 
-传统面向对象和ES6面向对象
+传统面向对象和ES6面向对象 郝夏赟
 
 css阻塞 js阻塞    耿鹏程
 
