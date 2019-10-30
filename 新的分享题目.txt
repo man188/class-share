@@ -30,7 +30,7 @@ Electron开发桌面应用
 
 移动端1像素边框问题    洪晨晨
 
-理解npm、yarn依赖包管理的原理，两者的区别
+理解npm、yarn依赖包管理的原理，两者的区别  丁慧涛
 
 Flutter  Serverless 介绍
 
