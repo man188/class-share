@@ -4,11 +4,11 @@ ajax和axios、fetch的区别?
 
 移动端前端适配方案？
 
-怎样引入一个第三方的包？require与import的区别
+怎样引入一个第三方的包？require与import的区别  杜长月
 
 Zepto的点透问题如何解决
 
-vue angular react的区别     文书丽
+vue angular react的区别
 
 es6语法介绍
 
@@ -42,7 +42,7 @@ css阻塞 js阻塞
 
 移动端点击穿透的问题
 
-markdown文档使用  张栋
+markdown文档使用
 
 
 
