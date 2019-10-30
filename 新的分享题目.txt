@@ -1,4 +1,4 @@
-AMD和CMD的区别
+﻿AMD和CMD的区别    何利涛
 
 ajax和axios、fetch的区别?姜娜娜
 
@@ -20,7 +20,7 @@ xss，csrf的概念以及防范的方法
 
 变量提升和函数提升   毛杰
 
-渐进式网页应用（PWA）
+渐进式网页应用（PWA）姜西平
 
 Electron开发桌面应用
 
