@@ -34,7 +34,7 @@ Electron开发桌面应用
 
 Flutter  Serverless 介绍
 
-react-native介绍
+react-native介绍  姚毅磊
 
 传统面向对象和ES6面向对象 郝夏赟
 
@@ -42,7 +42,7 @@ css阻塞 js阻塞    耿鹏程
 
 移动端点击穿透的问题 马圆圆
 
-markdown文档使用
+markdown文档使用  李哲
 
 
 
