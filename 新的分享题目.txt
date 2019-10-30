@@ -38,7 +38,7 @@ react-native介绍
 
 传统面向对象和ES6面向对象
 
-css阻塞 js阻塞
+css阻塞 js阻塞        耿鹏程
 
 移动端点击穿透的问题
 
